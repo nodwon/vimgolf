@@ -13,3 +13,4 @@
 ## • Satisfy the go linter
 ### • $ vimgolf put 5f1063aa8361810006e73210
 ![3](https://user-images.githubusercontent.com/73088512/144701418-164132e8-2515-4bb6-8f70-965fff0d25af.png)
+![과제3](https://user-images.githubusercontent.com/73088512/144701429-da1f0893-4c73-44bc-aa87-f89202c2515d.gif)
