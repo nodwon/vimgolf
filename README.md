@@ -14,3 +14,7 @@
 ### • $ vimgolf put 5f1063aa8361810006e73210
 ![3](https://user-images.githubusercontent.com/73088512/144701418-164132e8-2515-4bb6-8f70-965fff0d25af.png)
 ![과제3](https://user-images.githubusercontent.com/73088512/144701429-da1f0893-4c73-44bc-aa87-f89202c2515d.gif)
+# • VimGolf 문제 리스트 5가지 (4)
+## • Plotting some variables in python
+### • $ vimgolf put 9v0060da5177000000000209
+![4](https://user-images.githubusercontent.com/73088512/144701465-44551b21-5d5f-4f19-9416-f6c418fe34e0.png)
