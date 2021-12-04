@@ -9,3 +9,7 @@
 ### • $ vimgolf put 603ba26a01b4d00009c10a49
 ![2](https://user-images.githubusercontent.com/73088512/144701382-cebf368b-b830-4cab-9884-2a8bc8e7c012.png)
 ![과제2](https://user-images.githubusercontent.com/73088512/144701392-d96e2f12-c373-4de5-803a-d584a78d6853.gif)
+# • VimGolf 문제 리스트 5가지 (3)
+## • Satisfy the go linter
+### • $ vimgolf put 5f1063aa8361810006e73210
+![3](https://user-images.githubusercontent.com/73088512/144701418-164132e8-2515-4bb6-8f70-965fff0d25af.png)
