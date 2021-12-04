@@ -18,3 +18,8 @@
 ## • Plotting some variables in python
 ### • $ vimgolf put 9v0060da5177000000000209
 ![4](https://user-images.githubusercontent.com/73088512/144701465-44551b21-5d5f-4f19-9416-f6c418fe34e0.png)
+![과제4](https://user-images.githubusercontent.com/73088512/144701470-6d343015-42b1-48cd-b643-465c1769d6e3.gif)
+# • VimGolf 문제 리스트 5가지 (5)
+## • Python dataclasses
+### • $ vimgolf put 6013804df3308e0009368f1c
+![4](https://user-images.githubusercontent.com/73088512/144701497-f7e8d5b2-9056-4bb7-9651-9faf3f958fa0.png)
